@@ -1,24 +1,13 @@
-# README
+# FGO Twitter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a planned twitter clone built around the concept of a historical roleplaying with Fate characters instead of the actual historical figures.
 
-Things you may want to cover:
+Planned:
 
-* Ruby version
+* VueJS frontend
 
-* System dependencies
+* live updates
 
-* Configuration
+* MongoDB or GraphQL
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Etc
