@@ -6,10 +6,10 @@
             </p>
         </figure>
         <div class="media-content">
-        
+            <%= render 'messages/form' %>
         </div>
     </article>
-</div>
+
 
 <% @messages.each do | message | %>
     <div class="box">
@@ -50,3 +50,4 @@
         </article>
     </div>
 <% end %>
+</div>
