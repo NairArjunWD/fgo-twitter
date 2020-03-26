@@ -11,11 +11,13 @@
               <%= f.input :email,
                           required: true,
                           autofocus: true,
-                          input_html: { autocomplete: "email" } %>
+                          input_html: { class: "input"}, 
+                          wrapper: false, 
+                          label_html: { class: "label"} %>
             </div>
 
             <div class="form-actions">
-              <%= f.button :submit, "Send me reset password instructions" %>
+              <%= f.button :submit, "Send me reset password instructions", class: "button is-info" %>
             </div>
           <% end %>
 
