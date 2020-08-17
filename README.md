@@ -11,3 +11,5 @@ Planned:
 * MongoDB or GraphQL
 
 * Etc
+
+Notice: Due to complications stemming from this being my first Rails project, I canceled this repo and restarted it in another repo.
